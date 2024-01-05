@@ -1,0 +1,25 @@
+.hero{
+    font-weight: lighter;
+    display: flex;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: coral;
+}
+
+.normalButton{
+    background-color: gray;
+    color: white;
+}
+
+.activeButton{
+    background-color: black;
+    color: white;
+}
